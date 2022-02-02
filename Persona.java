@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pruebapersona;
+package pruebapersona;//Comentario del ejercicio de ED
 import java.util.regex.Pattern;
 
 public class Persona {
@@ -16,7 +16,7 @@ public class Persona {
     static final int mayoriaEdad = 18;
 
     public Persona() {
-       // System.out.println("SE ESTÁ EJECUTANDO EL CONSTRUCTOR POR DEFECTO, PORQUE SI!!!!!!!");
+       // System.out.println("SE ESTÃ� EJECUTANDO EL CONSTRUCTOR POR DEFECTO, PORQUE SI!!!!!!!");
     }
     
     
